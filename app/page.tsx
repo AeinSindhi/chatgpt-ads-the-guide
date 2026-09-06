@@ -30,7 +30,6 @@ export default function Home() {
       <Pricing />
       <Faq />
       <FinalCta />
-      <Footer />
       <StickyMobileCta />
     </main>
   );
