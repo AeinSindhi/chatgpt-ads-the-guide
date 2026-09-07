@@ -70,7 +70,7 @@ export default function Pricing() {
           </div>
 
           <p className="mt-6 font-display text-4xl font-medium text-ink">
-            ₹299{" "}
+            ₹199{" "}
             <span className="text-2xl text-ink/50 line-through">₹799</span>
           </p>
 
